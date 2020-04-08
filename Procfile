@@ -1,1 +1,1 @@
-worker : npm start
+worker: ./aria.sh && npm start
