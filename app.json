@@ -9,6 +9,10 @@
   "buildpacks": [{
     "url": "https://github.com/amivin/aria2-heroku"
   }, {
-    "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+    "url": "heroku/nodejs"
+  },  {
+    "url": "https://github.com/pk11/heroku-buildpack-typescript.git"
   }]
 }
+ 
+
