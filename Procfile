@@ -1,1 +1,2 @@
-web: ./aria.sh && npm start
+web: npm start
+worker: ./aria.sh
