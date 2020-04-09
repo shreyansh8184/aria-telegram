@@ -1,0 +1,14 @@
+{
+  "name": "Aria2TGBot",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": [
+    "productivity",
+    "HTML5",
+    "telegram"
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs
+      "url": "https://github.com/amivin/aria2-heroku.git"
+    }
+  ],
