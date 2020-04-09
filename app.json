@@ -11,7 +11,7 @@
   }, {
     "url": "heroku/nodejs"
   },  {
-    "url": "https://github.com/pk11/heroku-buildpack-typescript.git"
+    "url": "https://github.com/2fd/heroku-buildpack-typescript"
   }]
 }
  
