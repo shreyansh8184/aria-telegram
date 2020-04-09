@@ -2,8 +2,8 @@
   "name": "Aria2TGBot",
   "description": "This app does one little thing, and does it well.",
   "keywords": [
-    "productivity",
-    "HTML5",
+    "gdrive",
+    "Aria2",
     "telegram"
   ],
   "buildpacks": [
