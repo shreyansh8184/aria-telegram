@@ -6,9 +6,9 @@
     "Aria2",
     "telegram"
   ],
-  "buildpacks": [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
-      "url": "https://github.com/amivin/aria2-heroku"
-    }
-  ]
+  "buildpacks": [{
+    "url": "https://github.com/amivin/aria2-heroku"
+  }, {
+    "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }]
+}
